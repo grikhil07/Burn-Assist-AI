@@ -1,0 +1,1 @@
+web: gunicorn burn_project.wsgi

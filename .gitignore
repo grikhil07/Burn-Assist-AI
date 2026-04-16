@@ -1,0 +1,36 @@
+# 🔹 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🔹 Virtual Environment
+venv/
+env/
+ENV/
+
+# 🔹 Django
+db.sqlite3
+*.log
+
+# 🔹 Static & Media files
+media/
+staticfiles/
+
+# 🔹 ML Models (IMPORTANT)
+*.h5
+*.keras
+*.pkl
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 VS Code / IDE
+.vscode/
+.idea/
+
+# 🔹 Environment variables
+.env
+
+*.keras
